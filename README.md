@@ -17,7 +17,7 @@
   <img align="left" alt="Usman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<p  align="left"><img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<p  align="left"><img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
 
 ## Hello there 👋
 I'm Muhammad Usman, CS undergrad at FAST National University of Computer & Emerging Sciences. I am a highly motivated and enthusiastic guy. I am a keen observer and always inquisitive to learn new things. I am always looking for growth and a chance to build up my skills. I fit beautifully to the environment and add to the diversity of the team. Currently, I am looking for internships and research projects in the field of Computer science.
@@ -28,7 +28,6 @@ I'm Muhammad Usman, CS undergrad at FAST National University of Computer & Emerg
 - 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
 - 💬 Ask me anything. Atleast, I'll try. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/usmanisofficial/) 
-</p>
 
 <a href="https://github.com/usmanisofficial">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanisofficial&show_icons=true&theme=dracula&line_height=27" alt="Usman's github stats"/>
