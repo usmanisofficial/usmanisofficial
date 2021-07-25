@@ -1,3 +1,4 @@
+# I am a Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
 <a href="https://www.linkedin.com/in/usmanisofficial/">
   <img align="left" alt="Usman's Linkedin" width="22px" style="color=blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,4 +29,8 @@ I'm Muhammad Usman, CS undergrad at FAST National University of Computer & Emerg
 - 💬 Ask me anything. Atleast, I'll try. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/usmanisofficial/) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanisofficial&label=Profile Views&color=blue&style=plastic" alt="usman" /> </p>
+
+<a href="https://github.com/usmanisofficial">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanisofficial&show_icons=true&theme=dracula&line_height=27" alt="Usman's github stats"/>
+</a>
+
