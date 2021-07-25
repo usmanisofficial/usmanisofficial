@@ -29,7 +29,7 @@ I'm Muhammad Usman, CS undergrad at FAST National University of Computer & Emerg
 - 💬 Ask me anything. Atleast, I'll try. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/usmanisofficial/) 
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanisofficial&label=Profile Views&color=blue&style=plastic" alt="usmanisofficial" /> </p>
+  <a href="https://github.com/usmanisofficial" align="left"> <img src="https://komarev.com/ghpvc/?username=usmanisofficial&label=Profile Views&color=blue&style=plastic" alt="usmanisofficial" /> </a>
   
 <a href="https://github.com/usmanisofficial">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanisofficial&show_icons=true&theme=dracula&line_height=27" alt="Usman's github stats"/>
