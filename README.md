@@ -28,7 +28,7 @@ I'm Muhammad Usman, CS undergrad at FAST National University of Computer & Emerg
 - 👯 I’m looking to collaborate on project ideas and participate actively in hackathons.
 - 💬 Ask me anything. Atleast, I'll try. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/usmanisofficial/) 
-
+</p>
 
 <a href="https://github.com/usmanisofficial">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanisofficial&show_icons=true&theme=dracula&line_height=27" alt="Usman's github stats"/>
