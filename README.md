@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.twitter.net/usmanisofficial">
-  <img align="left" alt="Usman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Usman's Twitter" width="120px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />
 </a>
 
 
