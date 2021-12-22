@@ -1,7 +1,7 @@
 # I am a Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
 <a href="https://www.linkedin.com/in/usmanisofficial/">
-  <img align="left" alt="Usman's Linkedin" width="22px" style="color=blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Usman's Linkedin" width="22px" style="color=blue" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
 <a href="https://www.twitter.net/usmanisofficial">
