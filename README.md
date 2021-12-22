@@ -1,21 +1,18 @@
 # I am a Developer and Coder. <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50">
 
 <a href="https://www.linkedin.com/in/usmanisofficial/">
-  <img align="left" alt="Usman's Linkedin" width="120px" style="color=blue" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+  <img align="left" alt="Usman's Linkedin" height="30" style="color=blue" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
 <a href="https://www.twitter.net/usmanisofficial">
-  <img align="left" alt="Usman's Twitter" width="120px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />
-</a>
-
-
-<a href="https://github.com/usmanisofficial">
-  <img align="left" alt="Usman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Usman's Twitter" height="30"  src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />
 </a>
 
 <a href="https://www.instagram.com/usmanisofficial/">
-  <img align="left" alt="Usman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Usman's Instagram" height="30" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png" />
 </a>
+<br>
+<br>
 
 <p  align="left"><img src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966 (2).gif">
 
