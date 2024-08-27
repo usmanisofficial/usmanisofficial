@@ -4,7 +4,7 @@
   <img align="left" alt="Usman's Linkedin" height="30" style="color=blue" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-<a href="https://www.twitter.net/usmanisofficial">
+<a href="https://www.x.com/usmanisofficial">
   <img align="left" alt="Usman's Twitter" height="30"  src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitter_button_icon_151835.png" />
 </a>
 
