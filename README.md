@@ -1,4 +1,4 @@
-![](/covers/u-bg-02.png)
+<img src="/covers/u-bg-02.png" style="border-radius: 8px;">
 
 <p align="center">
 
@@ -21,4 +21,3 @@
     <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mysql,mongodb,firebase,aws,gcp,git,github,docker,linux,vscode,postman,bun,discord,ai,notion,npm,ps,redux,supabase,vscode,wordpress,androidstudio,apple,bitbucket,xd,figma&perline=9" />
   </a>
 </p>
-
