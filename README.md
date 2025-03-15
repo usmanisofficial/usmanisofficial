@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/usmanisofficial">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mysql,mongodb,firebase,aws,gcp,git,github,docker,linux,vscode,postman,bun,discord,ai,notion,npm,ps,redux,supabase,vscode,wordpress,androidstudio,apple,bitbucket,xd,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,redux,bun,npm,mysql,mongodb,firebase,supabase,aws,gcp,linux,docker,git,github,bitbucket,vscode,postman,notion,androidstudio,apple,wordpress,discord,ai,ps,xd,figma&perline=9" />
   </a>
 </p>
