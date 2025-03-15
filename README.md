@@ -3,15 +3,15 @@
 <p align="center">
 
 <a href="mailto:contact@anafro.ru">
-    <img src="/badges/insta-03.png" height="24">
+    <img src="/badges/insta-03.png" height="34">
 </a>
 
 <a href="https://t.me/anafro_ru">
-<img src="/badges/linkedin-03.png" height="24">
+<img src="/badges/linkedin-03.png" height="44">
 </a>
 
 <a href="https://anafro.ru">
-<img src="/badges/x-03.png" height="24">
+<img src="/badges/x-03.png" height="54">
 </a>
 
 </p>
