@@ -1,4 +1,6 @@
-<img src="/covers/u-bg-02.png" style="border-radius: 8px;">
+<p align="center">
+  <img src="/covers/u-bg-03.png" style="border-radius: 8px;">
+</p>
 
 <p align="center">
 
