@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/covers/u-bg-03.png" style="border-radius: 8px;">
+  <img src="/covers/u-bg-04.png" style="border-radius: 8px;">
 </p>
 
 <p align="center">
