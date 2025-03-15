@@ -2,15 +2,15 @@
 
 <p align="center">
 
-<a href="mailto:contact@anafro.ru">
-    <img src="/badges/insta-03.png" height="34">
+<a href="https://instagram.com/usmanisofficial">
+    <img src="/badges/insta-03.png" height="54">
 </a>
 
-<a href="https://t.me/anafro_ru">
-<img src="/badges/linkedin-03.png" height="44">
+<a href="https://linkedin.com/in/usmanisofficial">
+<img src="/badges/linkedin-03.png" height="54">
 </a>
 
-<a href="https://anafro.ru">
+<a href="https://twitter.com/usmanisofficial">
 <img src="/badges/x-03.png" height="54">
 </a>
 
