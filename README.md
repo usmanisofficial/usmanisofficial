@@ -3,15 +3,15 @@
 <p align="center">
 
 <a href="https://instagram.com/usmanisofficial">
-    <img src="/badges/insta-03.png" height="54">
+    <img src="/badges/insta-03.png" height="44">
 </a>
 
 <a href="https://linkedin.com/in/usmanisofficial">
-<img src="/badges/linkedin-03.png" height="54">
+<img src="/badges/linkedin-03.png" height="44">
 </a>
 
 <a href="https://twitter.com/usmanisofficial">
-<img src="/badges/x-03.png" height="54">
+<img src="/badges/x-03.png" height="44">
 </a>
 
 </p>
