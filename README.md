@@ -1,4 +1,4 @@
-<h1 align="center">Helping Businesses<br>To Grow Through Intelligent Software</h1>
+<h1 align="center">Helping Businesses To Grow Through Intelligent Software</h1>
 
 <p align="center"><sub><b>CURRENTLY</b></sub></p>
 
