@@ -49,8 +49,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>MOBILE APP · iOS & ANDROID</b></sub>
-      <h3>Itr</h3>
+      <b>MOBILE APP · iOS & ANDROID</b>
+      <h2>Itr</h2>
       <p>
         <img src="https://img.shields.io/badge/Pre--release-0969DA?style=flat-square" alt="Status: pre-release">
         <img src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square" alt="Private repository">
@@ -66,8 +66,8 @@
       <img src="https://img.shields.io/badge/MMKV-2D3748?style=flat-square" alt="MMKV">
     </td>
     <td width="50%" valign="top">
-      <sub><b>MARKETPLACE · API, WEB, iOS & ANDROID</b></sub>
-      <h3>AutoPlace</h3>
+      <b>MARKETPLACE · API, WEB, iOS & ANDROID</b>
+      <h2>AutoPlace</h2>
       <p>
         <img src="https://img.shields.io/badge/Live-1A7F37?style=flat-square" alt="Status: live">
         <a href="https://autoplace.al"><img src="https://img.shields.io/badge/autoplace.al-0B5CAD?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit autoplace.al"></a>
@@ -86,8 +86,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>MARKETPLACE · iOS & ANDROID</b></sub>
-      <h3>DirtConnect</h3>
+      <b>MARKETPLACE · iOS & ANDROID</b>
+      <h2>DirtConnect</h2>
       <p>
         <img src="https://img.shields.io/badge/Live-1A7F37?style=flat-square" alt="Status: live">
         <a href="https://apps.apple.com/au/app/dirtconnect/id6757248872"><img src="https://img.shields.io/badge/App_Store-0B5CAD?style=flat-square&logo=appstore&logoColor=white" alt="Download DirtConnect on the App Store"></a>
@@ -103,8 +103,8 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
     </td>
     <td width="50%" valign="top">
-      <sub><b>BOOKING PLATFORM · WEB & BACK OFFICE</b></sub>
-      <h3>Saiyaara Travels</h3>
+      <b>BOOKING PLATFORM · WEB & BACK OFFICE</b>
+      <h2>Saiyaara Travels</h2>
       <p>
         <img src="https://img.shields.io/badge/Live-1A7F37?style=flat-square" alt="Status: live">
         <a href="https://saiyaara.pk"><img src="https://img.shields.io/badge/saiyaara.pk-0B5CAD?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit saiyaara.pk"></a>
@@ -122,8 +122,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>ERP · FINANCE & OPERATIONS</b></sub>
-      <h3>Trading-company ERP</h3>
+      <b>ERP · FINANCE & OPERATIONS</b>
+      <h2>Trading-company ERP</h2>
       <p>
         <img src="https://img.shields.io/badge/In_production-1A7F37?style=flat-square" alt="Status: in production">
         <img src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square" alt="Private repository">
@@ -139,8 +139,8 @@
       <img src="https://img.shields.io/badge/Playwright-24292F?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright">
     </td>
     <td width="50%" valign="top">
-      <sub><b>B2B E-COMMERCE · WEB</b></sub>
-      <h3>CMPAutomate</h3>
+      <b>B2B E-COMMERCE · WEB</b>
+      <h2>CMPAutomate</h2>
       <p>
         <img src="https://img.shields.io/badge/Live-1A7F37?style=flat-square" alt="Status: live">
         <a href="https://cmpautomate.com"><img src="https://img.shields.io/badge/cmpautomate.com-0B5CAD?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit cmpautomate.com"></a>
