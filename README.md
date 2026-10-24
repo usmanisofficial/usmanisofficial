@@ -163,7 +163,6 @@
 | Project | What it is |
 | --- | --- |
 | [**SalatTrails**](https://github.com/usmanisofficial/salattrails) | Open-source Expo app for logging the mosques you've prayed at on a map, following friends and checking prayer times |
-| [**tikload**](https://github.com/usmanisofficial/tikload) · [**inload**](https://github.com/usmanisofficial/inload) | Expo apps for saving TikTok and Instagram media, with collections and scheduled reminders |
 | **BoardVise** | AI question bank and test-paper generator that rejects any AI question whose answer isn't quoted verbatim from the source chapter |
 | **School management platform** | Multi-tenant NestJS + Next.js system with PostgreSQL row-level security, background jobs and MFA (in development) |
 | **Stripe wallet gateway** | WordPress plugin adding Apple Pay and Google Pay to WP Travel Engine, including deposit payments |
@@ -179,7 +178,7 @@
 | **Senior Software Engineer** | [DirtConnect](https://apps.apple.com/au/app/dirtconnect/id6757248872) · Australia | Previously |
 | **Software Engineer** | Coduko | Nov 2023 – Oct 2025 |
 
-<sub>Education: National University of Computer and Emerging Sciences (FAST-NUCES)</sub>
+<sub>Education: <a href="https://www.nu.edu.pk/">National University of Computer and Emerging Sciences (FAST-NUCES)</a></sub>
 
 ## Tech stack
 
