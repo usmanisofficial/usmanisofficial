@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="covers/u-bg-05.png" alt="Muhammad Usman: Helping Businesses To Grow Through Intelligent Software" width="100%">
-</p>
-
-<h3 align="center">Building products end to end, from the database to the app store.</h3>
+<h1 align="center">Helping Businesses<br>To Grow Through Intelligent Software</h1>
 
 <p align="center"><sub><b>CURRENTLY</b></sub></p>
 
